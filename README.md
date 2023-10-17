@@ -4,7 +4,7 @@
 
 
 
-# Some information about the program 
+# 1. Some information about the program 
 
 ## Did you use the same type of route to update patient information as to update an employee’s department?
 
@@ -14,7 +14,7 @@
 
 ## What is the cost-benefit between using PUT and PATCH?
 
-# Reference
+# 2. Reference
 1. https://www.linkedin.com/pulse/whats-difference-between-post-put-patch-restful-apis-okpala
 
 
