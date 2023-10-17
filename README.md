@@ -6,7 +6,7 @@
 
 # 1. Some information about the program 
 
-## Did you use the same type of route to update patient information as to update an employee’s department?
+##  ِA. Did you use the same type of route to update patient information as to update an employee’s department?
 
 No, the paths for the given routes for changing patient data and altering a worker's department are distinct and use separate HTTP methods (PUT and PATCH).
 
@@ -37,7 +37,7 @@ Path Variable: {id} represents the unique identifier of the employee.
 ![‏‏لقطة الشاشة (12)](https://github.com/ManarAlfarsi/Enterprise-Java-Development-4.04/assets/146036696/8f9ce966-fd3c-4d89-af41-a01eb97000f8)
 
 
-## Why did you choose the selected strategy?
+## B. Why did you choose the selected strategy?
 
 **-Using PUT, update the patient's information:-**
 
@@ -52,7 +52,7 @@ the cause: PATCH is made for partial updates, in which the client provides only 
 PATCH is an appropriate option since updating an employee's department may include modifying a specific property without sending the full employee resource.
 Path Structures: '/api/employees/department/{id}' suggests updating the department of a specific employee identified by {id}, treating the department as a subresource of an employee.
 
-## What are the advantages and disadvantages of the strategies you chose for creating these routes?
+## C. What are the advantages and disadvantages of the strategies you chose for creating these routes?
 **Update Patient Information using PUT:**
 
 *Advantages:*
@@ -73,7 +73,7 @@ is made to support partial updates, enabling the sending of only the resource-sp
 
 As the changes must be merged with the existing resource, handling partial updates may add extra complexity on the server side.
 
-## What is the cost-benefit between using PUT and PATCH?
+## D. What is the cost-benefit between using PUT and PATCH?
 **PUT (Complete Update)**
 
 *Benefit:*
