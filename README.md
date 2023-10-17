@@ -30,8 +30,7 @@ Route: /api/employees/department/{id}
 
 Path Variable: {id} represents the unique identifier of the employee.
 
-![photo_2023-10-17_20-53-10](https://github.com/amalg20/Enterprise-Java-Development-4.04/assets/145042005/ff75dbaf-d104-44a2-ac73-e6fc601dfc95)
-
+![photo_2023-10-17_20-53-35](https://github.com/amalg20/Enterprise-Java-Development-4.04/assets/145042005/23e595f9-6894-45eb-a902-15bcadcb5fca)
 
 
 ## B. Why did you choose the selected strategy?
