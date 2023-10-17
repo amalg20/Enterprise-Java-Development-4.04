@@ -17,10 +17,8 @@ HTTP Method: PUT
 Route: /api/patients/{id}
 
 Path Variable: {id} represents the unique identifier of the patient
-.
 
-
-![‏‏لقطة الشاشة (13)](https://github.com/ManarAlfarsi/Enterprise-Java-Development-4.04/assets/146036696/d77de292-1d43-4dff-944f-e362e001651e)
+![photo_2023-10-17_20-53-10](https://github.com/amalg20/Enterprise-Java-Development-4.04/assets/145042005/ff75dbaf-d104-44a2-ac73-e6fc601dfc95)
 
 
  
